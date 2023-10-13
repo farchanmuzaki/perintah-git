@@ -1,0 +1,19 @@
+langkag-lagkah penggunaan git
+
+----------cek keberadaan git---------------
+git //melihat terinstal atau tidak pada os
+git --version    //melihat versi git
+
+-----------membuat repo lokal--------------
+1. buka gitbash/cmd
+2. buat repo dengan manual melalui desktop/document
+3. buat repo menggunakan gitbash :
+    1. ketik cd dekstop(atau bisa dimanapun)
+    2. ketik mkdir nama-repo
+    3. ketik ls //untuk melihat folder yang sudah kita buat
+    4. ketik cd nama-repo //masuk ke repo yg sudah kita buat
+4. ketik git init //untuk menmbuat inisialisasi folder repo
+5. cek pada properties folder repo yg suda kita inisialisasi dengan :
+    1. masuk ke folder nama-repo yg sudah kita buat pilih option //folder repo nama-repo yang sudah kita inisial 
+    2. klik pada bagian radio buttom show hiden file - maka akan muncul folder git didalam folder repo nama-repo
+
